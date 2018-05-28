@@ -71,4 +71,4 @@ El navegador utilizado fue: chrome=66.0 y el chromeDriver soportado para esta ve
 ---
 Muy buen reto, para este caso puse en práctica todo lo que se aprendió en el curso de Selenium.
 Los objetos no tenían ID, lo que dificulto un poco la identificación de los mismos, se debió hacer con xpath, aunque no es muy recomendado fue la única forma de capturarlos.
-Sería muy bueno tener estos retos más seguidos, no se uno mensual, para no perder la práctica. Muy importante diseñarlos de manera que las personas refuercen los conocimientos y aprendan cosas nuevas, no por “corchar”.
+Sería muy bueno tener estos retos más seguidos, no se, uno mensual, para no perder la práctica. Muy importante diseñarlos de manera que las personas refuercen los conocimientos y aprendan cosas nuevas, no por “corchar”.
